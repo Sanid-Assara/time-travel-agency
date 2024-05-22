@@ -145,7 +145,7 @@ nav a:active {
   /* aspect-ratio: 16/9; */
   display: block;
   object-fit: cover;
-  border-radius: 15%;
+  border-radius: 18%;
 }
 
 /* Services section styles */
